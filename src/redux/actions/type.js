@@ -1,0 +1,2 @@
+export const SET_RECIPES = "SET_RECIPES";
+export const FAVOURITE_RECIPE = "FAVOURITE_RECIPE";
